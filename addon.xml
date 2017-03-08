@@ -1,6 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repositorio.wtv” name=“WTV official Repo" version="1.1.0" provider-name=“WTV”>
+<addon id="repositorio.wtv" name="WTV official Repo" version="1.1.0" provider-name="WTV">
 	<extension point="xbmc.addon.repository" name=“WTV official Repo">
 		<info compressed="false">https://raw.githubusercontent.com/xavir7/repositorio.wtv/master/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/xavir7/repositorio.wtv/master/addon.xml.md5</checksum>
